@@ -1,0 +1,6 @@
+.venv/
+.env
+chess_analysis_history.json
+__pycache__/
+*.pyc
+.idea/
